@@ -3,8 +3,9 @@ import { Acerca } from "../../componets/otros/Quienes";
 import { ListarRevistas } from "../../componets/revistas/ListarRevistas";
 import { RegistarRevistas } from "../../componets/revistas/RegistrarRevistas";
 import { AdminRevistas } from "../../componets/revistas/AdminRevistas";
-import { Inicio } from "../../componets/conetenedor/Inicio";
 import { NoEncontrado } from "../../componets/conetenedor/NoEncontrado";
+import Inicio from "../../componets/conetenedor/Inicio";
+
  
 export const Ruteo = ()=>{
     return(
